@@ -1,0 +1,7 @@
+-r requirements.txt
+matplotlib>=3.9,<4
+scikit-learn>=1.5,<2
+seaborn>=0.13,<1
+opencv-python-headless>=4.10,<5
+streamlit-webrtc>=0.47,<1
+av>=12,<16

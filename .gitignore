@@ -1,0 +1,17 @@
+.venv/
+__pycache__/
+*.py[cod]
+.env
+.env.*
+!.env.example
+.vscode/
+data/
+old/
+results/
+models/*
+!models/class_indices.json
+!models/efficientnet_waste.keras
+.streamlit/secrets.toml
+.DS_Store
+Thumbs.db
+
