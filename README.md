@@ -3,6 +3,10 @@
 A data-science project that classifies waste materials into nine categories and
 provides practical recycling guidance through a Streamlit interface.
 
+## Live demo
+
+https://namanh-waste-classification.streamlit.app/
+
 ## Highlights
 
 - Nine material classes: aluminium, carton, foam box, milk box, paper, paper
@@ -27,4 +31,3 @@ streamlit run streamlit_app.py
 ## Tech stack
 
 Python, TensorFlow, EfficientNetB0, Streamlit, NumPy, pandas, Altair, and Pillow.
-
